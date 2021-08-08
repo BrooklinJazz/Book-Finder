@@ -1,4 +1,8 @@
-# App
+# Testing Permutations of Interactions Between Features in Elixir and Phoenix.
+
+This Repo is an example repo for my article: Testing Permutations of Interactions Between Features in Elixir and Phoenix.
+
+## Getting Started.
 
 To start your Phoenix server:
 
